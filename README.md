@@ -25,11 +25,9 @@ To run this project, you will need to add the following environment variables to
 
 ## API Reference
 
-#### Base URL
+#### API used
 
-```http
-  https://api.rawg.io/api
-```
+Rawg
 
 | Parameter | Type     | Description                |
 | :-------- | :------- | :------------------------- |
